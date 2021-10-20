@@ -189,6 +189,7 @@ Smart Shop 经过了生产环境**反复线上论证**和**大量真实用户数
 | ![](https://images.gitee.com/uploads/images/2021/0706/160100_85be067b_8533008.jpeg "下载.jpg")      |![](https://bgniao-small-file-1253272780.cos.ap-chengdu.myqcloud.com/group_purchase_open/%E5%B0%8F.gif "启山智软社区团购操作流程")      |
 
 
+
 |小程序端真机截图|
 |------|
 |![](https://images.gitee.com/uploads/images/2021/0702/160747_f27d2e38_8533008.jpeg "移动端展示.jpg")|

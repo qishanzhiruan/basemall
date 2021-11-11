@@ -5,6 +5,9 @@
  * @LastEditors: chuyinlong
  * @LastEditTime: 2021-09-03 10:59:39
 -->
+# 双11活动钜惠来袭:tada:  :tada:  :tada: 
+![](https://images.gitee.com/uploads/images/2021/1111/111202_a2ffa922_8533008.jpeg "121.jpg")
+
 ### 郑重声明
 
 近期发现市场上有人冒充smart shop工作人员通过售卖盗版smart shop商城系统源码非法获益，在此我们郑重声明：非经过本公司官方渠道购买的smart shop源码出现任何问题我们概不负责。

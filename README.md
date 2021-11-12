@@ -181,7 +181,7 @@ Smart Shop 经过了生产环境**反复线上论证**和**大量真实用户数
 ###  项目演示
 | ![](https://medusa-small-file.oss-cn-hangzhou.aliyuncs.com/gruul/20210903/aa1615e427d448cb93de24f511ec0243.png "kaiyuan.png") | ![](https://images.gitee.com/uploads/images/2021/0927/170756_42454dda_8533008.jpeg "2f262ce68ebb9ad5d5646252b48bf90d.jpg") | ![](https://images.gitee.com/uploads/images/2021/0927/170839_597c4881_8533008.png "1632382919(1).png") |
 |-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| 开源版本演示地址：https://open.bgniao.cn/copartner/0.1/sign 账号：15824556145 密码：admin123                                                     | 商业版演示地址：https://test.superprism.cn/login 账号：18967889883 密码：admin                                  | 商业版演示地址：https://test.superprism.cn/login 账号：18067188818 密码：admin                                      |
+| 开源版本演示地址：https://open.bgniao.cn/copartner/0.1/sign 账号：18058505737 密码：admin123                                                     | 商业版演示地址：https://www.bgniao.cn/copartner/s1.5/overview 账号：18967889883 密码：medusa2016                                  | 商业版演示地址：https://test.superprism.cn/login 账号：18067188818 密码：admin123                                      |
 
 
 | 小程序演示 | 操作流程 |

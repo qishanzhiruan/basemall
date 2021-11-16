@@ -10,7 +10,8 @@
 近期发现市场上有人冒充smart shop工作人员通过售卖盗版smart shop商城系统源码非法获益，在此我们郑重声明：非经过本公司官方渠道购买的smart shop源码出现任何问题我们概不负责。
 
 使用违法获取的盗版系统，存在很多的数据安全隐患，还会带来法律风险，请大家共同监督，发现人员出售盗版系统，及时与我们联系，我们将依法追究其法律责任 :exclamation:  :exclamation:  :exclamation: 
-商城交流群4：476139879  商城交流群5：458320504  微信号：medusa8765
+
+#### 商城交流群4：476139879  商城交流群5：458320504  微信号：medusa8765
 | 交流群4 | 交流群5  | 技术微信 |
 |--------|--------|--------|
 |![](https://images.gitee.com/uploads/images/2021/0707/113944_4f9df1f5_8533008.jpeg "4.jpg")|![](https://images.gitee.com/uploads/images/2021/0707/114009_f44c2fc5_8533008.png "5.png")|![](https://images.gitee.com/uploads/images/2021/1013/102223_c82a4918_8533008.png "1634091712(1).png")|

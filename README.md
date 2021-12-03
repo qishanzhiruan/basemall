@@ -5,16 +5,15 @@
  * @LastEditors: chuyinlong
  * @LastEditTime: 2021-09-03 10:59:39
 -->
+![输入图片说明](gruul-mall-admin-source/public/%E5%8F%8C12.png)
 ### 郑重声明
-
 近期发现市场上有人冒充smart shop工作人员通过售卖盗版smart shop商城系统源码非法获益，在此我们郑重声明：非经过本公司官方渠道购买的smart shop源码出现任何问题我们概不负责。
 
 使用违法获取的盗版系统，存在很多的数据安全隐患，还会带来法律风险，请大家共同监督，发现人员出售盗版系统，及时与我们联系，我们将依法追究其法律责任 :exclamation:  :exclamation:  :exclamation: 
 
-#### 商城交流群4：476139879   商城交流群5：458320504    微信号：medusa8765
 | 交流群4 | 交流群5  | 技术微信 |
 |--------|--------|--------|
-|![](https://images.gitee.com/uploads/images/2021/0707/113944_4f9df1f5_8533008.jpeg "4.jpg")|![](https://images.gitee.com/uploads/images/2021/0707/114009_f44c2fc5_8533008.png "5.png")|![](https://images.gitee.com/uploads/images/2021/1013/102223_c82a4918_8533008.png "1634091712(1).png")|
+|![](https://images.gitee.com/uploads/images/2021/0707/113944_4f9df1f5_8533008.jpeg "4.jpg")|![](https://images.gitee.com/uploads/images/2021/0707/114009_f44c2fc5_8533008.png "5.png")|![](https://images.gitee.com/uploads/images/2021/1120/135453_4b4de7bd_8533008.jpeg "微信-.jpg")
 ### 前言
 
 期盼已久的smart shop商城系统核心框架正式开源上架啦 :tada:  :tada:  :tada:    
@@ -105,7 +104,7 @@ Smart Shop 经过了生产环境**反复线上论证**和**大量真实用户数
 ### 系统版本
 
 ####  开源版无加密
-开源 Smart Shop 框架（已上线），**目的是帮助程序员快速搭建高性能商城** 。
+开源 Smart Shop 框架（已上线），**目的是帮助程序员快速搭建高性能商城** 。  
 
 既然是框架，那么重点要解决的就是底层架构的复用问题，除了基础的用户、商品、订单、物流、售后等完整业务流程的功能外，其他业务模块不是开源的重点。我们承诺： **开源版 Smart Shop 框架永久免费无加密** 。商业版使用的底层框架，跟开源版完全相同，所以使用开源版的同学，可以轻松升级到商业版。
 
@@ -166,7 +165,7 @@ Smart Shop 经过了生产环境**反复线上论证**和**大量真实用户数
 - 订单管理：  订单结算、购物车、订单支付、评价、售后等；
 - 物流管理：  收发地址管理、物流发货、电子面单打印、小票打印、收货等；
 - 会员管理：  会员卡、会员权益、会员管理、储值管理等；
-- 营销管理：  优惠券、满减、积分商城、直播、社群接龙、环保回收等；  
+- 营销管理：  优惠券、满减、积分商城、直播、社群接龙、环保回收等；
 - 财务管理：  对账单、提现工单、财务报表导出等；
 - 客户管理：  客户列表、自动标签、积分管理等；
 - DIY装修：   支持所有页面DIY装修；
@@ -180,15 +179,14 @@ Smart Shop 经过了生产环境**反复线上论证**和**大量真实用户数
 
 
 ###  项目演示
-| ![](https://medusa-small-file.oss-cn-hangzhou.aliyuncs.com/gruul/20210903/aa1615e427d448cb93de24f511ec0243.png "kaiyuan.png") | ![](https://images.gitee.com/uploads/images/2021/0927/170756_42454dda_8533008.jpeg "2f262ce68ebb9ad5d5646252b48bf90d.jpg") | ![](https://images.gitee.com/uploads/images/2021/0927/170839_597c4881_8533008.png "1632382919(1).png") |
+| 开源版：![](https://medusa-small-file.oss-cn-hangzhou.aliyuncs.com/gruul/20210903/aa1615e427d448cb93de24f511ec0243.png "kaiyuan.png") | ![](https://images.gitee.com/uploads/images/2021/0927/170756_42454dda_8533008.jpeg "2f262ce68ebb9ad5d5646252b48bf90d.jpg") | ![](https://images.gitee.com/uploads/images/2021/0927/170839_597c4881_8533008.png "1632382919(1).png") |
 |-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| 开源版本演示地址：https://open.bgniao.cn/copartner/0.1/sign 账号：18058505737 密码：admin123                                                     | 商业版演示地址：https://www.bgniao.cn/copartner/s1.5/overview 账号：18967889883 密码：medusa2016                                  | 商业版演示地址：https://test.superprism.cn/login 账号：18067188818 密码：admin123                                      |
+| 开源版本演示地址：https://open.bgniao.cn/copartner/0.1/sign 账号：18058505737密码：admin123                                                     | 商业版演示地址：https://www.bgniao.cn/copartner/s1.5/overview 账号：18967889883 密码：medusa2016                                  | 商业版演示地址：https://test.superprism.cn/login 账号：18067188818 密码：admin123                                      |
 
 
 | 小程序演示 | 操作流程 |
 |-------|------|
-| ![](https://images.gitee.com/uploads/images/2021/0706/160100_85be067b_8533008.jpeg "下载.jpg")
-
+| ![](https://images.gitee.com/uploads/images/2021/0706/160100_85be067b_8533008.jpeg "下载.jpg")      |![](https://bgniao-small-file-1253272780.cos.ap-chengdu.myqcloud.com/group_purchase_open/%E5%B0%8F.gif "启山智软社区团购操作流程")      |
 
 
 |小程序端真机截图|
@@ -212,7 +210,7 @@ Smart Shop 经过了生产环境**反复线上论证**和**大量真实用户数
 ####  代购商城
 > 主要经营奢侈品代购，商品全部香港直邮发货，原先某平台购买商城源码使用，一年不到功能不满足现有需求，售卖代码方一直联系不上，后来找到我们做了新人券、用户注册实名制（代购需要）、对接物流API、报表导出等功能，除了新人券其他的功能我们商城是满足的，所以在我们自有源码基础上做了新人券二开，二开后 **_营业额至今上百万_** 
 
-|![输入图片说明](https://images.gitee.com/uploads/images/2021/0809/144858_d05384fd_8533008.jpeg "微信图片_20210809143329.jpg")|![输入图片说明](https://images.gitee.com/uploads/images/2021/0809/144907_3648ce07_8533008.jpeg "微信图片_20210809143335.jpg")|![输入图片说明](https://images.gitee.com/uploads/images/2021/0809/144917_284a0f75_8533008.jpeg "微信图片_20210809143353.jpg")|![输入图片说明](https://images.gitee.com/uploads/images/2021/0809/144932_143ecabf_8533008.jpeg "微信图片_20210809143402.jpg")|
+|![输入图片说明](https://images.gitee.com/uploads/images/2021/0809/144858_d05384fd_8533008.jpeg "微信图片_20210809143329.jpg")|![输入图片说明](https://images.gitee.com/uploads/images/2021/0809/144907_3648ce07_8533008.jpeg "微信图片_20210809143335.jpg")|![输入图片说明](https://images.gitee.com/uploads/images/2021/0809/144917_284a0f75_8533008.jpeg "微信图片_20210809143353.jpg")|![输入图片说明](https://images.gitee.com/uploads/images/2021/0809/144932_143ecabf_8533008.jpeg "微信图片_20210809143402.jpg")| 
 |---|---|---|---|
 
 

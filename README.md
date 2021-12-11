@@ -1,11 +1,10 @@
-<!--
+![输入图片说明](images/%E5%8F%8C12%E5%95%86%E5%9F%8E%E6%B5%B7%E6%8A%A50.gif)
  * @description: 抽离开源版本
  * @Author: chuyinlong
  * @Date: 2021-09-03 10:01:47
  * @LastEditors: chuyinlong
  * @LastEditTime: 2021-09-03 10:59:39
--->
-![输入图片说明](gruul-mall-admin-source/public/%E5%8F%8C12.png)
+
 ### 郑重声明
 近期发现市场上有人冒充smart shop工作人员通过售卖盗版smart shop商城系统源码非法获益，在此我们郑重声明：非经过本公司官方渠道购买的smart shop源码出现任何问题我们概不负责。
 
@@ -13,20 +12,17 @@
 
 | 交流群4 | 交流群5  | 技术微信 |
 |--------|--------|--------|
-|![](https://images.gitee.com/uploads/images/2021/0707/113944_4f9df1f5_8533008.jpeg "4.jpg")|![](https://images.gitee.com/uploads/images/2021/0707/114009_f44c2fc5_8533008.png "5.png")|![](https://images.gitee.com/uploads/images/2021/1120/135453_4b4de7bd_8533008.jpeg "微信-.jpg")
+|![输入图片说明](images/%E7%BE%A44.png)|![输入图片说明](images/%E7%BE%A45.png)|![](https://images.gitee.com/uploads/images/2021/1120/135453_4b4de7bd_8533008.jpeg "微信-.jpg")
 ### 前言
 
-期盼已久的smart shop商城系统核心框架正式开源上架啦 :tada:  :tada:  :tada:    
+期盼已久的经过 **百万真实用户沉淀并检验** 的企业级smart shop商城系统核心框架正式开源上架啦 :tada:  :tada:  :tada:    
 
-smart shop是一套基于启山智软社区团购的基础上剥离出来的SaaS版商城系统，我们将启山智软社区团购的部分业务进行了重构，延用了用户端小程序、区域团长后台、自定义装修组件等相关模块。
+我们承诺smart shop使用的开源框架完全免费，其余功能支持定制开发。由于SaaS系统研发投入成本高，迄今已超过300w人民币。在此对【中国石油】、【贵州茅台】【轩妈蛋黄酥】等基于本系统进行二次开发的知名企业表示感谢！
 
-我们承诺smart shop使用到的开源框架完全免费使用，其余功能支持定制开发。由于SaaS系统研发投入成本高，迄今已超过300w人民币。在此对【中国石油】、【贵州茅台】等基于本系统进行二次开发的知名企业表示感谢！
-
-我们希望通过gitee平台能让更多的人了解smart shop商城系统，获得大家的认可的同时也希望大家对于系统能够提出你的宝贵意见，帮助我们不断的对系统进行迭代优化，使 Smart Shop 成为 **Java程序员的首选商城框架** ！！
+我们希望通过gitee平台能让更多的人了解smart shop商城系统，获得大家认可的同时也希望大家对smartshop提出宝贵的意见，帮助我们不断对系统进行迭代优化，使Smart Shop成为 **Java程序员的首选商城框架** ！！
 
 ### 项目介绍
-Smart Shop 是一款基于 **Spring Cloud** +MybatisPlus+XXL-JOB+redis+Vue的前后端分离的商城系统，采用轻量级稳定框架开发及优化核心，减少依赖，具备出色的执行效率、扩展性、稳定性。
-Smart Shop 经过了生产环境**反复线上论证**和**大量真实用户数据使用**的考验。
+Smart Shop是一款基于 **Spring Cloud** +MybatisPlus+XXL-JOB+redis+Vue的前后端分离、分布式、微服务架构的Java商城系统，采用稳定框架开发及优化核心，减少依赖，具备出色的执行效率，扩展性、稳定性高，H5/小程序/APP三端合一数据打通，Smart shop将持续收集大家反馈不断更新迭代，并经过了生产环境**反复线上论证**和**大量真实用户数据使用**的考验。
 
 ### 荣誉资质
 |![输入图片说明](https://images.gitee.com/uploads/images/2021/0907/162352_817a9646_8533008.png "商城软著_20210907161716.png")|![输入图片说明](https://images.gitee.com/uploads/images/2021/0814/104042_f5d3ec3b_8533008.png "布谷鸟SaaS平台.png")|![输入图片说明](https://images.gitee.com/uploads/images/2021/0814/104233_f71a9b70_8533008.png "外观专利.png")|
@@ -179,14 +175,9 @@ Smart Shop 经过了生产环境**反复线上论证**和**大量真实用户数
 
 
 ###  项目演示
-| 开源版：![](https://medusa-small-file.oss-cn-hangzhou.aliyuncs.com/gruul/20210903/aa1615e427d448cb93de24f511ec0243.png "kaiyuan.png") | ![](https://images.gitee.com/uploads/images/2021/0927/170756_42454dda_8533008.jpeg "2f262ce68ebb9ad5d5646252b48bf90d.jpg") | ![](https://images.gitee.com/uploads/images/2021/0927/170839_597c4881_8533008.png "1632382919(1).png") |
-|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| 开源版本演示地址：https://open.bgniao.cn/copartner/0.1/sign 账号：18058505737密码：admin123                                                     | 商业版演示地址：https://www.bgniao.cn/copartner/s1.5/overview 账号：18967889883 密码：medusa2016                                  | 商业版演示地址：https://test.superprism.cn/login 账号：18067188818 密码：admin123                                      |
-
-
-| 小程序演示 | 操作流程 |
-|-------|------|
-| ![](https://images.gitee.com/uploads/images/2021/0706/160100_85be067b_8533008.jpeg "下载.jpg")      |![](https://bgniao-small-file-1253272780.cos.ap-chengdu.myqcloud.com/group_purchase_open/%E5%B0%8F.gif "启山智软社区团购操作流程")      |
+|![输入图片说明](images/9259dad32223cbac68a6b2d9af15b141.png)|![输入图片说明](images/smart%20shop%E5%95%86%E4%B8%9A%E7%89%88.png)|
+|---|---|
+|演示地址：https://test.superprism.cn 账号：13003701802密码：medusa2016|商业版演示地址：https://mall.bgniao.cn/copartner/0.1/sign 账号：18067188818 密码：12345678|
 
 
 |小程序端真机截图|
@@ -215,11 +206,19 @@ Smart Shop 经过了生产环境**反复线上论证**和**大量真实用户数
 
 
 
-####  挂号平台
-> 每天早上五六点看到很多大爷大妈排队挂号，甚至冬日寒冷天气也是如此，为了解决这个问题调露小区卫生院孙医生找到我们要做一个线下挂号平台，不要挂号费，省去了他们很早来排队的问题，程序上挂号就可以了，鉴于这个情况我们在商城基础上做了二开修改，挂号平台正式上线后用户覆盖了附近三四个小区 **_两三千人使用量_** 
+####  新线科技
+> 新线科技一家专注于计算机、软件及辅助设备、电子产品销售等科技型公司，有着自己的技术团队。前期用的是PHP的营销商城，近几年客户量发展较快再加上所售产品价格较高，基于长期发展肯定需要更换商城的底层架构，必然会用到Spring Cloud，选择我们这套系统是技术成本较低的一个选择。
 
-|![输入图片说明](https://images.gitee.com/uploads/images/2021/0903/132153_4187f01b_8533008.jpeg "1.jpeg")|![输入图片说明](https://images.gitee.com/uploads/images/2021/0903/132204_94a04119_8533008.jpeg "2.jpeg")|![输入图片说明](https://images.gitee.com/uploads/images/2021/0903/132217_cca82ee0_8533008.jpeg "3.jpeg")|
-|---|---|---|
+| ![输入图片说明](images/22d8edb51ba4af1e329aa5e300de2c8.jpg)  |![输入图片说明](images/212.jpg)   | ![输入图片说明](images/213.jpg)  | ![输入图片说明](images/214.jpg)  |
+|---|---|---|---|
+
+####  劲面堂
+> 劲面堂，连锁品牌有着大量忠实粉丝的餐饮公司，对用户数据尤为看中，需要有一套属于自己公司的售卖系统。随着市场变化可随时做二次开发来满足市场需求长远考虑JAVA微服务架构是不二之选。
+
+| ![输入图片说明](images/010.jpg)  | ![输入图片说明](images/011.jpg)  | ![输入图片说明](images/012.jpg)  | ![输入图片说明](images/013.jpg)  |
+|---|---|---|---|
+
+
 
 
 ### 特别鸣谢

@@ -9,9 +9,16 @@
 
 使用违法获取的盗版系统，存在很多的数据安全隐患，还会带来法律风险，请大家共同监督，发现人员出售盗版系统，及时与我们联系，我们将依法追究其法律责任 :exclamation:  :exclamation:  :exclamation: 
 
-| 交流群4 | 交流群5  | 技术微信 |
-|--------|--------|--------|
-|![输入图片说明](images/%E7%BE%A44.png)|![输入图片说明](images/%E7%BE%A45.png)|![](https://images.gitee.com/uploads/images/2021/1120/135453_4b4de7bd_8533008.jpeg "微信-.jpg")
+| 技术微信 |
+|--------|
+|![](https://images.gitee.com/uploads/images/2021/1120/135453_4b4de7bd_8533008.jpeg "微信-.jpg")
+
+## 欢迎交流需求，交流业务，交流技术
+
+# 交流 qq 4群 476139879
+
+# 交流 qq 5群 458320504
+
 ### 前言
 
 期盼已久的经过 **百万真实用户沉淀并检验** 的企业级smart shop商城系统核心框架正式开源上架啦 :tada:  :tada:  :tada:    

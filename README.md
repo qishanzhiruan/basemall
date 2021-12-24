@@ -172,9 +172,10 @@ Smart Shop是一款基于 **Spring Cloud** +MybatisPlus+XXL-JOB+redis+Vue的前�
 
 
 ###  项目演示
-|
+|商业版演示地址：https://mall.bgniao.cn/copartner/0.1/sign |
 |---|
-|商业版演示地址：https://mall.bgniao.cn/copartner/0.1/sign 账号：18067188818 密码：12345678|
+|账号：18067188818|
+|密码：12345678|
 
 
 |小程序端真机截图|
@@ -182,7 +183,7 @@ Smart Shop是一款基于 **Spring Cloud** +MybatisPlus+XXL-JOB+redis+Vue的前�
 |![](https://images.gitee.com/uploads/images/2021/0702/160747_f27d2e38_8533008.jpeg "移动端展示.jpg")|
 
 
-|Web真机截图|
+|![演示小程序码](images/gh_96112c318995_258.jpg)|
 |------|
 |![](https://images.gitee.com/uploads/images/2021/0702/160736_c22cc63c_8533008.jpeg "11.jpg")|
 

@@ -1,20 +1,3 @@
- * @description: 抽离开源版本
- * @Author: chuyinlong
- * @Date: 2021-09-03 10:01:47
- * @LastEditors: chuyinlong
- * @LastEditTime: 2021-09-03 10:59:39
-
-### 郑重声明
-近期发现市场上有人冒充smart shop工作人员通过售卖盗版smart shop商城系统源码非法获益，在此我们郑重声明：非经过本公司官方渠道购买的smart shop源码出现任何问题我们概不负责。
-
-使用违法获取的盗版系统，存在很多的数据安全隐患，还会带来法律风险，请大家共同监督，发现人员出售盗版系统，及时与我们联系，我们将依法追究其法律责任 :exclamation:  :exclamation:  :exclamation: 
-### 欢迎交流需求，交流业务，交流技术
-| 技术微信 |
-|--------|
-|![](https://images.gitee.com/uploads/images/2021/1120/135453_4b4de7bd_8533008.jpeg "微信-.jpg")
-#### 交流 qq 4群  476139879
-#### 交流 qq 5群  458320504
-
 ### 前言
 
 期盼已久的经过 **百万真实用户沉淀并检验** 的企业级smart shop商城系统核心框架正式开源上架啦 :tada:  :tada:  :tada:    
@@ -23,12 +6,24 @@
 
 我们希望通过gitee平台能让更多的人了解smart shop商城系统，获得大家认可的同时也希望大家对smartshop提出宝贵的意见，帮助我们不断对系统进行迭代优化，使Smart Shop成为 **Java程序员的首选商城框架** ！！
 
+### 欢迎交流需求，交流业务，交流技术
+| 技术微信 | 交流 qq 4群 | 交流 qq 5群 |
+|--------|--------|--------|
+|![](https://images.gitee.com/uploads/images/2021/1120/135453_4b4de7bd_8533008.jpeg "微信-.jpg")| 476139879 | 458320504 |
+
 ### 项目介绍
 Smart Shop是一款基于 **Spring Cloud** +MybatisPlus+XXL-JOB+redis+Vue的前后端分离、分布式、微服务架构的Java商城系统，采用稳定框架开发及优化核心，减少依赖，具备出色的执行效率，扩展性、稳定性高，H5/小程序/APP三端合一数据打通，Smart shop将持续收集大家反馈不断更新迭代，并经过了生产环境**反复线上论证**和**大量真实用户数据使用**的考验。
 
 ### 荣誉资质
 |![输入图片说明](https://images.gitee.com/uploads/images/2021/0907/162352_817a9646_8533008.png "商城软著_20210907161716.png")|![输入图片说明](https://images.gitee.com/uploads/images/2021/0814/104042_f5d3ec3b_8533008.png "布谷鸟SaaS平台.png")|![输入图片说明](https://images.gitee.com/uploads/images/2021/0814/104233_f71a9b70_8533008.png "外观专利.png")|
 |---|---|---|
+
+### 郑重声明
+近期发现市场上有人冒充smart shop工作人员通过售卖盗版smart shop商城系统源码非法获益，在此我们郑重声明：非经过本公司官方渠道购买的smart shop源码出现任何问题我们概不负责。
+
+使用违法获取的盗版系统，存在很多的数据安全隐患，还会带来法律风险，请大家共同监督，发现人员出售盗版系统，及时与我们联系，我们将依法追究其法律责任 :exclamation:  :exclamation:  :exclamation: 
+
+
 
 
 ### 技术架构
@@ -177,9 +172,9 @@ Smart Shop是一款基于 **Spring Cloud** +MybatisPlus+XXL-JOB+redis+Vue的前�
 
 
 ###  项目演示
-|![输入图片说明](images/9259dad32223cbac68a6b2d9af15b141.png) |![输入图片说明](images/gh_96112c318995_258.jpg)|
-|---|---|
-|商业版演示地址：https://test.superprism.cn 账号：13003701802密码：medusa2016|商业版演示地址：https://mall.bgniao.cn/copartner/0.1/sign 账号：18067188818 密码：12345678|
+|
+|---|
+|商业版演示地址：https://mall.bgniao.cn/copartner/0.1/sign 账号：18067188818 密码：12345678|
 
 
 |小程序端真机截图|

@@ -107,8 +107,6 @@ Smart Shop是一款基于 **Spring Cloud** +MybatisPlus+XXL-JOB+redis+Vue的前�
 
 ✅ 个人学习；
 
-✅ 商用（请注明来源）；
-
 ✅ 公益项目（请注明来源）。
 
 

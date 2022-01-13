@@ -169,11 +169,11 @@ Smart Shop是一款基于 **Spring Cloud** +MybatisPlus+XXL-JOB+redis+Vue的前�
 
 
 ###  项目演示
-|商业版演示地址：https://test.superprism.cn/login |
+|商业版源码生产环境演示地址：https://mall.bgniao.cn/copartner/1.0/sign |
 |---|
-|账号：13003701802|
-|密码：medusa2016|
-
+|账号：18345208780|                                                      
+|密码：admin123|
+|H5演示地址：https://mall.bgniao.cn/h5/#/|
 
 |小程序端真机截图|
 |------|
